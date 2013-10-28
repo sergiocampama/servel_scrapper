@@ -4,7 +4,9 @@ A Clojure program that scraps Servel's database
 
 ## Usage
 
-lein run
+This assumes that you have a MongoDB instance up and running.
+
+`lein run`
 
 ## License
 
