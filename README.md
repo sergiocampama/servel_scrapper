@@ -1,6 +1,6 @@
 # servel
 
-A Clojure program that scraps Servel's database
+A Clojure program that scraps Servel's database. It uses `pmap` with 10000 RUTs in batch, so as not to choke on memory.
 
 ## Usage
 
